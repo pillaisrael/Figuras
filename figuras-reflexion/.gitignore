@@ -1,0 +1,5 @@
+target/
+figuras-dinamicas/*.groovy
+.idea/
+*.iml
+.vscode/
